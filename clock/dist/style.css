@@ -30,6 +30,7 @@ body {
   position: absolute;
   top: 50%;
   transform-origin: 100% 50%;
+  transition: ease-in all 0.05s;
 }
 
 .hour-hand {
